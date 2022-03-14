@@ -1,0 +1,140 @@
+body{
+  color: #495464;
+  text-align: center;
+  margin: 0;
+  font-family: 'Montaga', serif;
+
+}
+  p{
+  line-height: 2;
+}
+   hr{
+     border:dotted #bbbfca 6px;
+     border-bottom: none;
+     width: 12%;
+     margin: 100px auto;
+   }
+    h1{
+  font-family:'Sacramento',cursive;
+   margin: 80px auto 0 auto;
+  font-size: 90px;
+  color: #66BFBF ;
+  text-shadow: 5px 5px 6px #1F4068;
+  }
+  h2{
+  text-shadow: 4px 4px 6px #97e5ef;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+  color:#0e9aa7;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+font-family: 'Montaga', serif;
+color: #11999E;
+}
+
+ a{
+   font-family: 'Montaga', serif;
+   color:#084177;
+   margin:20px 10px;
+   text-decoration: none;
+ }
+ a:hover{
+   color: #cbeaed;
+ }
+.top-container{
+  background-color: #B2DEEC;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  padding: 100px 0;
+
+}
+.bottom-container{
+  background-color: #40a8c4;
+  padding: 50px 0 20px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.ball{
+  width: 35%;
+  float: left;
+  margin-right: 45px;
+}
+.web{
+  width: 40%;
+  float: right;
+  margin-left:  45px;
+}
+.game{
+  width: 40%;
+  float: left;
+  margin-right: 45px;
+
+}
+
+
+
+.bottom-cloud{
+  position:absolute;
+  left: 20%;
+}
+.top-cloud{
+  position:absolute;
+  right:20%;
+}
+.last{
+font-family: 'Montaga', serif;
+color: #cbeaed;
+font-size: 80%;
+padding: 20px 0;
+}
+   .button {
+     background: #A5C7D9;
+   background-image: -webkit-linear-gradient(top, #A5C7D9, #06193B);
+   background-image: -moz-linear-gradient(top, #A5C7D9, #06193B);
+   background-image: -ms-linear-gradient(top, #A5C7D9, #06193B);
+   background-image: -o-linear-gradient(top, #A5C7D9, #06193B);
+   background-image: -webkit-gradient(to bottom, #A5C7D9, #06193B);
+   -webkit-border-radius: 32px;
+   -moz-border-radius: 32px;
+   border-radius: 32px;
+   color: #FFFFFF;
+     font-family: 'Merriweather', serif;
+   font-size: 17px;
+   font-weight: 300;
+   padding: 12px;
+   -webkit-box-shadow: 4px 5px 20px 2px #000000;
+   -moz-box-shadow: 4px 5px 20px 2px #000000;
+   box-shadow: 4px 5px 20px 2px #000000;
+   text-shadow: 1px 4px 22px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+   .button:hover {
+   border: solid #505E71 4px;
+   background: #CEDFF7;
+   background-image: -webkit-linear-gradient(top, #CEDFF7, #0D4486);
+   background-image: -moz-linear-gradient(top, #CEDFF7, #0D4486);
+   background-image: -ms-linear-gradient(top, #CEDFF7, #0D4486);
+   background-image: -o-linear-gradient(top, #CEDFF7, #0D4486);
+   background-image: -webkit-gradient(to bottom, #CEDFF7, #0D4486);
+   -webkit-border-radius: 24px;
+   -moz-border-radius: 24px;
+   border-radius: 24px;
+   text-decoration: none;
+}
